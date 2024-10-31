@@ -1,0 +1,768 @@
+# Copyright (C) 2016 Quickr Membership
+# This file is distributed under the same license as the Quickr Membership package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quickr Membership 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/swift-membership\n"
+"POT-Creation-Date: 2016-07-30 23:14:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/3rdparty/Quickr_Logging.php:173
+msgid "Logs"
+msgstr "লগ"
+
+#: classes/admin/class-quickr-admin-dispatcher.php:182
+#: classes/admin/class-quickr-menu-builder.php:29
+#: classes/admin/grid/class-quickr-member-approver-grid.php:33
+#: classes/admin/grid/class-quickr-member-importer-grid.php:29
+#: classes/admin/grid/class-quickr-membership-grid.php:19
+msgid "Membership Level"
+msgstr "সদস্যতা ধরণ"
+
+#: classes/admin/class-quickr-admin-dispatcher.php:207
+msgid "Membership level isn't assigned to this user."
+msgstr "এই ব্যবহারকারীকে সদস্যতা দেয়া হয়নি"
+
+#: classes/admin/class-quickr-admin-dispatcher.php:208
+msgid "Assign now?"
+msgstr "এখন সদস্যতা যোগ করবেন?"
+
+#: classes/admin/class-quickr-admin-metabox.php:22
+msgid "Quickr Membership Options"
+msgstr ""
+
+#: classes/admin/class-quickr-configurator.php:33
+msgid "Free Membership"
+msgstr ""
+
+#: classes/admin/class-quickr-configurator.php:133
+msgid "Signup"
+msgstr ""
+
+#: classes/admin/class-quickr-configurator.php:143
+msgid "Login"
+msgstr ""
+
+#: classes/admin/class-quickr-configurator.php:152
+msgid "Reset Password"
+msgstr ""
+
+#: classes/admin/class-quickr-configurator.php:161
+msgid "Profile"
+msgstr ""
+
+#: classes/admin/class-quickr-configurator.php:170
+msgid "Registration"
+msgstr ""
+
+#: classes/admin/class-quickr-menu-builder.php:23
+msgid "Quickr Member"
+msgstr ""
+
+#: classes/admin/class-quickr-menu-builder.php:26
+#: classes/admin/grid/class-quickr-member-approver-grid.php:17
+#: classes/admin/grid/class-quickr-member-importer-grid.php:14
+msgid "Member"
+msgstr ""
+
+#: classes/admin/class-quickr-menu-builder.php:32
+#: classes/admin/grid/class-quickr-payment-button-grid.php:18
+#: classes/admin/grid/class-quickr-payment-grid.php:15
+#: views/admin/payments/template.php:3
+msgid "Payments"
+msgstr ""
+
+#: classes/admin/class-quickr-menu-builder.php:35
+#: views/admin/settings/template.php:3
+msgid "Settings"
+msgstr ""
+
+#: classes/admin/class-quickr-menu-builder.php:38
+msgid "Extensions"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-member-approver-grid.php:18
+#: classes/admin/grid/class-quickr-member-importer-grid.php:15
+#: views/admin/extensions/template.php:3 views/admin/members/template.php:3
+msgid "Members"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-member-approver-grid.php:30
+#: classes/admin/grid/class-quickr-member-importer-grid.php:26
+#: classes/admin/grid/class-quickr-membership-grid.php:33
+#: classes/admin/grid/class-quickr-payment-button-grid.php:31
+msgid "ID"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-member-approver-grid.php:31
+#: classes/admin/grid/class-quickr-member-importer-grid.php:27
+#: classes/front/class-quickr-shortcode-processor.php:90
+msgid "Username"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-member-approver-grid.php:32
+#: classes/admin/grid/class-quickr-member-importer-grid.php:28
+msgid "Email"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-member-approver-grid.php:34
+msgid "Account State"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-member-approver-grid.php:56
+#: classes/admin/grid/class-quickr-member-importer-grid.php:51
+#: classes/admin/grid/class-quickr-payment-button-grid.php:59
+msgid "Set Status to Active"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-member-approver-grid.php:57
+#: classes/admin/grid/class-quickr-member-importer-grid.php:52
+#: classes/admin/grid/class-quickr-payment-button-grid.php:60
+msgid "Set Status to Active and Notify"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-member-approver-grid.php:58
+#: classes/admin/grid/class-quickr-member-importer-grid.php:53
+#: classes/admin/grid/class-quickr-payment-button-grid.php:61
+msgid "Set Status to Inactive"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-member-approver-grid.php:59
+#: classes/admin/grid/class-quickr-member-importer-grid.php:54
+#: classes/admin/grid/class-quickr-payment-button-grid.php:62
+msgid "Set Status to Pending"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-member-approver-grid.php:60
+#: classes/admin/grid/class-quickr-member-importer-grid.php:55
+#: classes/admin/grid/class-quickr-payment-button-grid.php:63
+msgid "Set Status to Expired"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-member-approver-grid.php:156
+msgid "Nothing to approve."
+msgstr ""
+
+#: classes/admin/grid/class-quickr-member-importer-grid.php:30
+msgid "Account Status"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-member-importer-grid.php:50
+#: classes/admin/grid/class-quickr-membership-grid.php:59
+#: classes/admin/grid/class-quickr-payment-button-grid.php:58
+msgid "Delete"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-member-importer-grid.php:141
+msgid "Nothing to import."
+msgstr ""
+
+#: classes/admin/grid/class-quickr-membership-grid.php:20
+#: classes/admin/menus/class-quickr-memberships-menu.php:34
+#: views/admin/memberships/template.php:3
+msgid "Membership Levels"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-membership-grid.php:34
+msgid "Name"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-membership-grid.php:35
+msgid "Duration Type"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-membership-grid.php:36
+msgid "Validity"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-membership-grid.php:37
+msgid "Protect Older Posts"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-membership-grid.php:38
+msgid "Campaign Name"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-membership-grid.php:76
+msgid "Until"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-membership-grid.php:79
+msgid "Never Expires"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-membership-grid.php:81
+#: classes/data/class-quickr-paypal-form-data.php:156
+msgid "Day(s)"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-membership-grid.php:89
+msgid "No"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-membership-grid.php:89
+msgid "Yes"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-membership-grid.php:181
+msgid ""
+"No membershiop level found. Please click <a href=\"admin.php?"
+"page=quickr_membership_level&tab=membership_add\">here</a> to define "
+"membership level."
+msgstr ""
+
+#: classes/admin/grid/class-quickr-payment-button-grid.php:17
+#: classes/admin/grid/class-quickr-payment-grid.php:14
+msgid "Payment"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-payment-button-grid.php:32
+msgid "Title"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-payment-button-grid.php:33
+msgid "Button type"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-payment-button-grid.php:34
+#: classes/admin/grid/class-quickr-payment-grid.php:30
+msgid "Payment Processor"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-payment-button-grid.php:35
+msgid "Billing Amount"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-payment-button-grid.php:36
+msgid "Billing Currency"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-payment-button-grid.php:169
+msgid "No button found."
+msgstr ""
+
+#: classes/admin/grid/class-quickr-payment-grid.php:26
+msgid "Transaction ID"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-payment-grid.php:27
+msgid "Transaction Date"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-payment-grid.php:28
+msgid "Transaction Amount"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-payment-grid.php:29
+msgid "Transaction Currency"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-payment-grid.php:31
+msgid "Payment Status"
+msgstr ""
+
+#: classes/admin/grid/class-quickr-payment-grid.php:114
+msgid "No payment made yet."
+msgstr ""
+
+#: classes/admin/menus/class-quickr-extensions-menu.php:32
+msgid "General"
+msgstr ""
+
+#: classes/admin/menus/class-quickr-members-menu.php:38
+msgid "Approve Members"
+msgstr ""
+
+#: classes/admin/menus/class-quickr-memberships-menu.php:35
+msgid "Add/Edit Membership Level"
+msgstr ""
+
+#: classes/admin/menus/class-quickr-payments-menu.php:31
+msgid "Payment History"
+msgstr ""
+
+#: classes/admin/menus/class-quickr-payments-menu.php:32
+msgid "Payment Buttons"
+msgstr ""
+
+#: classes/admin/menus/class-quickr-payments-menu.php:33
+msgid "PayPal"
+msgstr ""
+
+#: classes/admin/menus/class-quickr-settings-menu.php:35
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:35
+msgid "General Settings"
+msgstr ""
+
+#: classes/admin/menus/class-quickr-settings-menu.php:36
+msgid "Email Settings"
+msgstr ""
+
+#: classes/admin/menus/class-quickr-settings-menu.php:37
+msgid "Payment Settings"
+msgstr ""
+
+#: classes/admin/menus/class-quickr-settings-menu.php:38
+msgid "Advanced Settings"
+msgstr ""
+
+#: classes/admin/menus/class-quickr-settings-menu.php:39
+msgid "Extensions Settings"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-advanced-settings-tab.php:24
+msgid "Advanced Misc. Settings"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-advanced-settings-tab.php:25
+msgid "Allow expired Account login"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-advanced-settings-tab.php:29
+msgid "Enable Logging"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:24
+msgid "Email Misc. Settings"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:25
+msgid "From Email Address"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:31
+msgid "Email Settings (Prompt to Complete Registration )"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:32
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:46
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:69
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:80
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:91
+msgid "Email Subject"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:37
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:50
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:73
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:84
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:95
+msgid "Email Body"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:43
+msgid ""
+"Enter the email address where you want the admin notification email to be "
+"sent to."
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:44
+msgid ""
+" You can put multiple email addresses separated by comma (,) in the above "
+"field to send the notification to multiple email addresses."
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:45
+msgid "Email Settings (Registration Complete)"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:54
+msgid "Send Notification to Admin"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:56
+msgid ""
+"Enable this option if you want the admin to receive a notification when a "
+"member registers."
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:58
+msgid "Admin Email Address"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:62
+msgid "Send Email to Member When Added via Admin Dashboard"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:68
+msgid "Email Settings (Password Reset)"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:79
+msgid " Email Settings (Account Upgrade Notification)"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-email-settings-tab.php:90
+msgid " Email Settings (Bulk Account Activate Notification)"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:36
+msgid "Enable Free Membership"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:42
+msgid "Free Membership Level ID"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:46
+msgid ""
+"Free membership ID needs to be defined if free membership level enabled. "
+"these two settings work together"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:48
+msgid "Default Account Status"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:51
+msgid ""
+"Select the default account status for newly registered users. If you want to "
+"manually approve the members then you can set the status to \"Pending\"."
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:53
+msgid "Enable More Tag Protection"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:56
+msgid ""
+"Enables or disables \"more\" tag protection in the posts and pages. Anything "
+"after the More tag is protected. Anything before the more tag is teaser "
+"content."
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:57
+msgid "Hide Adminbar"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:59
+msgid "None"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:60
+msgid "Frontend Only"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:61
+msgid "Admin Only"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:62
+msgid "Both"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:65
+msgid ""
+"WordPress shows an admin toolbar to the logged in users of the site. Check "
+"this if you want to hide that admin toolbar in the frontend of your site."
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:67
+msgid "Pages Settings"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:68
+msgid "Login Page URL"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:71
+msgid "Registration Page URL"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:74
+msgid "Join Us Page URL"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:77
+msgid "Edit Profile Page URL"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:80
+msgid "Password Reset Page URL"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-general-settings-tab.php:104
+msgid "Page Setup and URL Related settings"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-payment-settings-tab.php:20
+msgid "Paypal Settings"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-payment-settings-tab.php:21
+msgid "Enable Sanbox Mode"
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-payment-settings-tab.php:23
+msgid ""
+"Enable this setting if you want to verify payment processing through test "
+"payments."
+msgstr ""
+
+#: classes/admin/settings-tab/class-quickr-payment-settings-tab.php:25
+msgid "Paypal IPN listener URL"
+msgstr ""
+
+#: classes/common/class-quickr-member-validator.php:41
+#: classes/common/class-quickr-member-validator.php:46
+#: classes/common/class-quickr-member-validator.php:51
+#: classes/common/class-quickr-member-validator.php:56
+#: classes/common/class-quickr-member-validator.php:60
+#: classes/front/access-control/class-quickr-access-controller.php:58
+#: classes/front/access-control/class-quickr-access-controller.php:66
+#: classes/front/access-control/class-quickr-access-controller.php:77
+#: classes/front/access-control/class-quickr-access-controller.php:84
+#: classes/front/access-control/class-quickr-access-controller.php:89
+#: classes/front/access-control/class-quickr-access-controller.php:93
+msgid "Access Denied"
+msgstr ""
+
+#: classes/common/class-quickr-member-validator.php:42
+msgid "Sorry! Your account has expired."
+msgstr ""
+
+#: classes/common/class-quickr-member-validator.php:47
+msgid ""
+"Your registration is incomplete. Please follow the link to complete "
+"registration. <a href=''>here</a>"
+msgstr ""
+
+#: classes/common/class-quickr-member-validator.php:52
+msgid "Your account is pending admin approval."
+msgstr ""
+
+#: classes/common/class-quickr-member-validator.php:57
+msgid "Your account is currently inactive."
+msgstr ""
+
+#: classes/common/class-quickr-member-validator.php:61
+msgid "Something went wrong."
+msgstr ""
+
+#: classes/data/class-quickr-admin-member-form-data.php:113
+msgid "Invalid membership level ID"
+msgstr ""
+
+#: classes/data/class-quickr-admin-member-form-data.php:116
+msgid "Activation date cannot be empty"
+msgstr ""
+
+#: classes/data/class-quickr-admin-member-form-data.php:136
+#: classes/data/class-quickr-admin-member-form-data.php:156
+msgid "Incomplete"
+msgstr ""
+
+#: classes/data/class-quickr-admin-member-form-data.php:139
+#: classes/data/class-quickr-admin-member-form-data.php:157
+msgid "Pending"
+msgstr ""
+
+#: classes/data/class-quickr-admin-member-form-data.php:142
+#: classes/data/class-quickr-admin-member-form-data.php:153
+msgid "Active"
+msgstr ""
+
+#: classes/data/class-quickr-admin-member-form-data.php:145
+#: classes/data/class-quickr-admin-member-form-data.php:154
+msgid "Inactive"
+msgstr ""
+
+#: classes/data/class-quickr-admin-member-form-data.php:148
+#: classes/data/class-quickr-admin-member-form-data.php:155
+msgid "Expired"
+msgstr ""
+
+#: classes/data/class-quickr-membership-form-data.php:116
+msgid "Sorry! security verification failed."
+msgstr ""
+
+#: classes/data/class-quickr-membership-form-data.php:127
+msgid "Title cannot be empty."
+msgstr ""
+
+#: classes/data/class-quickr-membership-form-data.php:128
+msgid "Role cannot be empty."
+msgstr ""
+
+#: classes/data/class-quickr-membership-form-data.php:131
+msgid "Not a valid Date."
+msgstr ""
+
+#: classes/data/class-quickr-membership-form-data.php:134
+msgid "Not a valid number."
+msgstr ""
+
+#: classes/data/class-quickr-membership-form-data.php:198
+msgid "Fixed"
+msgstr ""
+
+#: classes/data/class-quickr-membership-form-data.php:199
+#: classes/data/class-quickr-membership-form-data.php:216
+msgid "Variable"
+msgstr ""
+
+#: classes/data/class-quickr-membership-form-data.php:213
+msgid "fixed"
+msgstr ""
+
+#: classes/data/class-quickr-paypal-form-data.php:111
+msgid "Title is required"
+msgstr ""
+
+#: classes/data/class-quickr-paypal-form-data.php:117
+msgid "Billing Amount is not valid number."
+msgstr ""
+
+#: classes/data/class-quickr-paypal-form-data.php:123
+msgid "Email is not valid."
+msgstr ""
+
+#: classes/data/class-quickr-paypal-form-data.php:126
+msgid "Membership level is not valid."
+msgstr ""
+
+#: classes/data/class-quickr-paypal-form-data.php:130
+#: classes/data/class-quickr-paypal-form-data.php:136
+msgid "Not a valid number"
+msgstr ""
+
+#: classes/data/class-quickr-paypal-form-data.php:133
+msgid "Not a valid term"
+msgstr ""
+
+#: classes/data/class-quickr-paypal-form-data.php:140
+msgid "Trial amoun cannot be empty and must be a valid number"
+msgstr ""
+
+#: classes/data/class-quickr-paypal-form-data.php:143
+#: classes/data/class-quickr-paypal-form-data.php:146
+msgid "Trial cycle cannot be empty."
+msgstr ""
+
+#: classes/data/class-quickr-paypal-form-data.php:157
+msgid "Week(s)"
+msgstr ""
+
+#: classes/data/class-quickr-paypal-form-data.php:158
+msgid "Month(s)"
+msgstr ""
+
+#: classes/data/class-quickr-paypal-form-data.php:159
+msgid "Year(s)"
+msgstr ""
+
+#: classes/front/access-control/class-quickr-access-controller.php:59
+msgid "You need to log in to view more."
+msgstr ""
+
+#: classes/front/access-control/class-quickr-access-controller.php:67
+msgid "Your membership level doesn't have access to this content."
+msgstr ""
+
+#: classes/front/access-control/class-quickr-access-controller.php:78
+msgid "Your subscription has expired."
+msgstr ""
+
+#: classes/front/access-control/class-quickr-access-controller.php:85
+msgid "Your registration is incomplete.Please complete to get full access."
+msgstr ""
+
+#: classes/front/access-control/class-quickr-access-controller.php:90
+msgid "Your account in under review."
+msgstr ""
+
+#: classes/front/access-control/class-quickr-access-controller.php:94
+msgid "You don't have access to this content."
+msgstr ""
+
+#: classes/front/class-quickr-comment-handler.php:32
+msgid "Please login to comment."
+msgstr ""
+
+#: classes/front/class-quickr-comment-handler.php:49
+msgid "Please Login to Comment."
+msgstr ""
+
+#: classes/front/class-quickr-comment-handler.php:80
+msgid "Comments not allowed by a non-member."
+msgstr ""
+
+#: classes/front/class-quickr-shortcode-processor.php:23
+msgid "This is not allowed"
+msgstr ""
+
+#: classes/front/class-quickr-shortcode-processor.php:23
+msgid "Forbidden!"
+msgstr ""
+
+#: classes/front/class-quickr-shortcode-processor.php:91
+msgid "Password"
+msgstr ""
+
+#: classes/front/class-quickr-shortcode-processor.php:92
+msgid "Remember Me"
+msgstr ""
+
+#: classes/front/class-quickr-shortcode-processor.php:93
+msgid "Log In"
+msgstr ""
+
+#: views/admin/extensions/template.php:3
+msgid "Quickr Extension"
+msgstr ""
+
+#: views/admin/members/member_approve.php:7
+#: views/admin/members/member_import.php:7
+#: views/admin/memberships/membership_grid.php:8
+#: views/admin/payments/button_grid.php:6
+#: views/admin/payments/payment_grid.php:6
+msgid "Search"
+msgstr ""
+
+#. #-#-#-#-#  quickr-membership.pot (Quickr Membership 1.0.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: views/admin/members/template.php:3 views/admin/memberships/template.php:3
+#: views/admin/payments/template.php:3 views/admin/settings/template.php:3
+msgid "Quickr Membership"
+msgstr ""
+
+#: views/admin/memberships/add_membership_level_fixed.php:65
+#: views/admin/memberships/add_membership_level_variable.php:69
+#: views/admin/payments/paypal_buy_now_button.php:95
+#: views/admin/payments/paypal_subscription_button.php:150
+msgid "Save Changes"
+msgstr ""
+
+#: views/admin/memberships/add_membership_level_step1.php:30
+#: views/admin/payments/paypal_payment.php:30
+msgid "Next"
+msgstr ""
+
+#: views/admin/memberships/membership_grid.php:3
+#: views/admin/payments/payment_grid.php:2
+msgid "Search for a transaction by using email or name"
+msgstr ""
+
+#: views/admin/payments/button_grid.php:2
+msgid "Search for a button by button name, gateway"
+msgstr ""
+
+#. #-#-#-#-#  quickr-membership.pot (Quickr Membership 1.0.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  quickr-membership.pot (Quickr Membership 1.0.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://quickr-membership.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "An Extensible wordpress membership plugin"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Quickr"
+msgstr ""

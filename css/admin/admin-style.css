@@ -1,0 +1,13 @@
+/* 
+    Created on : Jun 3, 2016, 12:59:01 AM
+    Author     : nur
+*/
+#quickr-membership-level .form-field input, #quickr-paypal-button .form-field input{
+    width: 24em;
+}
+#quickr-membership-level .form-field input[type=checkbox], #quickr-paypal-button .form-field input[type=checkbox]{
+    width: 1em;
+}
+#quickr-membership-level .form-field input[type=radio], #quickr-paypal-button .form-field input[type=radio]{
+    width: 1em;
+}

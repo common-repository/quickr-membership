@@ -1,0 +1,109 @@
+=== QuickR Membership ===
+Contributors: amijanina
+Donate link: https://quickr-member.blogspot.com/
+Tags: member, members, members only, membership, memberships, register, WordPress membership plugin, content, content protection, paypal, restrict, restrict access, Restrict content, admin, access control, subscription, teaser, protection, profile, login, login page, bbpress
+Requires at least: 3.3
+Tested up to: 4.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Quickr membership plugin is a tightly integrated membership plugin that adds membership capability to your wordpress side.
+
+== Description ==
+
+= An easy-to-use membership plugin that enables you to create site offering free and paid content =
+
+The simple membership plugin lets you protect your posts and pages so only your members can view the protected content.
+NOTE THIS IS WORK IN PROGRESS. Please do let me know if you find any issue or have suggestion.
+= Fluid Integration with Core Wordpress System =
+Quickr Membership nicely integrates with core Wordpress system. It doesn't have to maintain separate user database. Therefore, no chance of
+user data getting out of sync. Since it heavily relies on core wordpress, it is able to take full advantage of new release of Wordpress.
+
+= Unlimited Membership Access Levels =
+Set up unlimited membership levels (example: free, silver, gold etc) and protect your posts and pages using the membership levels you create.
+
+= User Friendly Interface for Content Protection = 
+When you are editing a post or page in the WordPress editor, you can select to protect that post or page for your members.
+
+Non-members viewing a protected page will be prompted to login or become a member.
+
+= Have Free and Paid Memberships =
+You can configure it to have free and/or paid memberships on your site. Paid membership payment is handled securely via PayPal. 
+
+Both one time and recurring/subscription payments are supported.
+
+= Membership Payments Log = 
+All the payments from your members are recorded in the plugin. You can view them anytime by visiting the payments menu from the admin dashboard.
+
+= Member Login Widget on The Sidebar =
+You can easily add a member login widget on the sidebar of your site. Simply use the login form shortcode in the sidebar widget.
+
+You can also customize the member login widget by creating a custom template file in your theme (or child theme) folder.
+
+= Documentation =
+
+Read the [setup documentation](https://quickr-member.blogspot.com/2016/07/quickr-membership-documentation.html) after you install the plugin to get started.
+
+= Plugin Support =
+
+If you have any issue with this plugin, please  send me a contact: quickr.membership@gmail.com
+
+
+= Miscellaneous =
+
+* Works with any WordPress theme.
+* Ability to protect photo galleries.
+* Ability to protect attachment pages.
+* Show teaser content to convert visitors into members.
+* Comments on your protected posts will also be protected automatically.
+* There is an option to enable debug logging so you can troubleshoot membership payment related issues easily (if any).
+* Ability to customize the content protection message that gets shown to non-members.
+* Ability to use merge vars in the membership email notification.
+* Membership management side is handled by the plugin.
+* Ability to manually approve your members.
+* Ability to import WordPress users as members.
+* Filter members list by account status.
+* Can be translated to any language.
+* Hide the admin toolbar from the frontend of your site.
+* Allow your members to delete their membership accounts.
+* Send quick notification email to your members.
+* Customize the password reset email for members.
+* The login and registration widgets will be responsive if you are using a responsive theme.
+* Ability to restrict the commenting feature on your site to your members only.
+* Front-end member registration page.
+* Front-end member profiles.
+* Front-end member login page.
+
+= Language Translations =
+
+* English
+
+You can translate the plugin using the language [translation documentation](http://quickr-member.blogspot.com/2016/07/quickr-translation-documentation.html).
+
+== Installation ==
+
+Do the following to install the membership plugin:
+
+1. Upload the 'quickr-membership.zip' file from the Plugins->Add New page in the WordPress administration panel.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+
+== Frequently Asked Questions ==
+
+None.
+
+== Screenshots ==
+
+Please visit the screenshot page to view screenshots:
+http://quickr-member.blogspot.com/2016/07/quickr-screenshots.html
+
+== Changelog ==
+
+= 1.0.0 =
+- First commit to WordPress repository.
+
+== Upgrade Notice ==
+None
+
+== Arbitrary section ==
+None

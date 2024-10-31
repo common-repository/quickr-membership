@@ -1,0 +1,11 @@
+translation process:
+ php /var/www/html/wordpress/tools/i18n/makepot.php  wp-plugin ../../swift-membership  quickr-membership.pot 
+ msgcat quickr-membership-bn_BD.po | msgfmt -o quickr-membership-bn_BD.mo -
+
+test sequence:
+1. login
+2. password reset
+3. free registration
+4. email
+5. profile update
+6. paid registration
